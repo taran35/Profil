@@ -9,4 +9,4 @@ Simple profil html &amp; css
 </div>  
 
 ### Support me:
-[Instagram]([https://youtube.com/@le2pecayt?si=zMoEb2IuXw6xFWvf](https://www.instagram.com/taran.php?igsh=YzEzNGRpdjVrZ3Fq))   
+[Instagram](https://www.instagram.com/taran.php?igsh=YzEzNGRpdjVrZ3Fq)   
