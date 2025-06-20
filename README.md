@@ -1,8 +1,5 @@
 # Profil
-Simple profil html &amp; css
-
-# Preview:
-[Clic ici](http://taran.cristix.fr) 
+Simple profil html &amp; css 
 
 
 ### Language Utilisé:
@@ -12,8 +9,4 @@ Simple profil html &amp; css
 </div>  
 
 ### Support me:
-[YouTube](https://youtube.com/@le2pecayt?si=zMoEb2IuXw6xFWvf)    
-[Discord](https://discord.com/invite/KfwYgvEhTZ)    
-[PayPal](https://paypal.me/cristixminecraft)    
-
-<img src=https://discord.c99.nl/widget/theme-3/968244091194318899.png>
+[Instagram]([https://youtube.com/@le2pecayt?si=zMoEb2IuXw6xFWvf](https://www.instagram.com/taran.php?igsh=YzEzNGRpdjVrZ3Fq))   
